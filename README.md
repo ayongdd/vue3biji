@@ -17,11 +17,15 @@
 ## 路由滚动行为
 ### ![image](https://user-images.githubusercontent.com/84298308/229273865-9a26ac54-7bdf-498a-9be9-e1606d00e64a.png)
 
-## ref reative
-#### ref 支持所有类型  reative 支持引用类型Array Object Map Set
-#### ref 取值赋值都需要加上.value reative则不需要
-#### reative proxy 不能直接赋值，否则会破坏响应式对象。解决方法：数组可以使用 push 或者解构赋值 或者添加一个对象把数组作为一个属性去赋值。 
+## ref reactive
+#### ref 支持所有类型  reactive 支持引用类型Array Object Map Set
+#### ref 取值赋值都需要加上.value reactive则不需要
+#### reactive proxy 不能直接赋值，否则会破坏响应式对象。解决方法：数组可以使用 push 或者解构赋值 或者添加一个对象把数组作为一个属性去赋值。 
 
 ## toRef toRefs
 #### ![image](https://user-images.githubusercontent.com/84298308/230006911-9005b6e8-ad15-4fe2-bed2-3033246a99c8.png)
 #### ![image](https://user-images.githubusercontent.com/84298308/230007731-8d76cf06-a228-4475-ba3e-ced70e5d149b.png)
+
+
+## reactive 源码 vue3双向绑定原理
+#### ![image](https://user-images.githubusercontent.com/84298308/230026862-032ef8da-b9b9-4376-a54e-804d130cea14.png)
