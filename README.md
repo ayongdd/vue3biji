@@ -29,3 +29,15 @@
 
 ## reactive 源码 vue3双向绑定原理
 #### ![image](https://user-images.githubusercontent.com/84298308/230026862-032ef8da-b9b9-4376-a54e-804d130cea14.png)
+
+## watch 
+#### ![image](https://user-images.githubusercontent.com/84298308/230031556-19120925-2ba7-4db3-8298-91ec088818e1.png)
+
+## 实用插件 
+#### vueUse 各种vue3封装好的hooks 地址：https://vueuse.org/
+#### unplugin-auto-import vue3 免引入自带属性的插件  ![image](https://user-images.githubusercontent.com/84298308/230037216-bec8f146-0d68-4944-9cd8-c7078e5a89f2.png)
+
+## v-model 父子组件传值打到双向绑定 vue3新增
+![image](https://user-images.githubusercontent.com/84298308/230063389-ce3c2d69-5ed0-40ad-a4a3-ed5b840a42c3.png)
+![image](https://user-images.githubusercontent.com/84298308/230063636-c2443240-d836-4288-8cff-3a995503b213.png)
+
