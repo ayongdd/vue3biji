@@ -40,4 +40,5 @@
 ## v-model 父子组件传值打到双向绑定 vue3新增
 ![image](https://user-images.githubusercontent.com/84298308/230063389-ce3c2d69-5ed0-40ad-a4a3-ed5b840a42c3.png)
 ![image](https://user-images.githubusercontent.com/84298308/230063636-c2443240-d836-4288-8cff-3a995503b213.png)
+![image](https://user-images.githubusercontent.com/84298308/230063981-20f3818e-5f8e-4dbe-9359-e29bd1cb8453.png)
 
