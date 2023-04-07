@@ -43,3 +43,9 @@
 ![image](https://user-images.githubusercontent.com/84298308/230063636-c2443240-d836-4288-8cff-3a995503b213.png)
 ![image](https://user-images.githubusercontent.com/84298308/230063981-20f3818e-5f8e-4dbe-9359-e29bd1cb8453.png)
 
+## 自定义指令 做权鉴管理
+![image](https://user-images.githubusercontent.com/84298308/230603468-e4cce19e-81dd-4689-a5cf-4c0e748ec2dd.png)
+
+## 自定义置顶 做一个拖拽可div
+![image](https://user-images.githubusercontent.com/84298308/230604066-471121ec-ed91-40a6-abf3-5fa30ec790f1.png)
+
