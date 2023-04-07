@@ -48,4 +48,4 @@
 
 ## 自定义置顶 做一个拖拽可div
 ![image](https://user-images.githubusercontent.com/84298308/230604066-471121ec-ed91-40a6-abf3-5fa30ec790f1.png)
-
+document.addEventListener('mouseDown',mouseDown)
