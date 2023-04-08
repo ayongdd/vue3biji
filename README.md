@@ -54,3 +54,4 @@ document.addEventListener('mouseDown',mouseDown)
 ![image](https://user-images.githubusercontent.com/84298308/230703367-6d98d8e9-b5f3-43ee-9e4d-a2e37157a293.png)
 ![image](https://user-images.githubusercontent.com/84298308/230703516-c5007dda-f0ae-4812-b995-1cfa7ddcff62.png)
 new IntersectionObserver((enr)=>console.log(enr)) 判断元素是否在可视区域内
+import.meta.glob('./assets/images/*.*',{eager:true}) //用import的方式加载images文件夹里面的所有图片
