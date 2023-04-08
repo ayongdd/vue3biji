@@ -49,3 +49,9 @@
 ## 自定义指令置顶 做一个可拖拽div
 ![image](https://user-images.githubusercontent.com/84298308/230604066-471121ec-ed91-40a6-abf3-5fa30ec790f1.png)
 document.addEventListener('mouseDown',mouseDown)
+
+## 自定义指令v-lazy 实现图片懒加载
+![image](https://user-images.githubusercontent.com/84298308/230703367-6d98d8e9-b5f3-43ee-9e4d-a2e37157a293.png)
+![image](https://user-images.githubusercontent.com/84298308/230703516-c5007dda-f0ae-4812-b995-1cfa7ddcff62.png)
+
+import.meta.glob/import.meta.glob
